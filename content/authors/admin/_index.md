@@ -72,4 +72,4 @@ user_groups:
 
 I am doing a dual degrees in Mathematics and Physics at University of Missouri - Columbia, working on computer science research projects supervised by Dr. Jeffrey Uhlmann. My interest include optimization, artificial intelligence of machine learning and reinforcement learning, and quantum computing. 
 
-I has three years of coding experience in using Python and MATLAB and has numerous research experiences with applications to computational mathematics, physics, engineering, and computer science.
+I have three years of coding experience in using Python and MATLAB and have numerous research experiences with applications to computational mathematics, physics, engineering, and computer science.
