@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Tung D. Nguyen
 
 # Username (this should match the folder name)
 authors:
@@ -10,21 +10,20 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Math and Physics double major
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: University of Missouri - Columbia
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-
+- Optimization
+- Artificial Intelligence: Machine Learning and Reinforcement Learning. 
+- Quantum Computing
 education:
   courses:
   - course: PhD in Artificial Intelligence
