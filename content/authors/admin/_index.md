@@ -58,7 +58,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: files/2021_CV_Tung_Nguyen.pdf
+  link: static/files/2021_CV_Tung_Nguyen.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -73,5 +73,3 @@ user_groups:
 I am doing a dual degrees in Mathematics and Physics at University of Missouri - Columbia, working on computer science research projects supervised by Dr. Jeffrey Uhlmann. My interest include optimization, artificial intelligence of machine learning and reinforcement learning, and quantum computing. 
 
 I has three years of coding experience in using Python and MATLAB and has numerous research experiences with applications to computational mathematics, physics, engineering, and computer science.
-
-# Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
